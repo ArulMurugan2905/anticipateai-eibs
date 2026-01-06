@@ -27,3 +27,6 @@ Smart contracts and prototype will be implemented in the Grand Finale round.
 
 ## Team
 Team Innovatrix – EIBS 2.0
+
+📌 This repository is submitted as part of Round 1 of East India Blockchain Summit (EIBS) 2.0.
+
